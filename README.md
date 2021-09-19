@@ -1,1 +1,1 @@
-# ArtemZabashta.GitHub.io
+# ArtemZabashta.github.io

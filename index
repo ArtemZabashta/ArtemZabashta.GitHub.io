@@ -1,0 +1,49 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DarkSouls</title>
+</head>
+<body style="color:#ffffff"
+      background="https://images5.alphacoders.com/609/thumb-1920-609173.jpg">
+ <img align="right" src="https://external-preview.redd.it/-aPO1MAmY3Fe5OVxJQ5P7cNfSaGxS6j8Ag3OvuZofTU.jpg?auto=webp&s=76ac5f8f8afc8ee2cd0b0b785ad21fd39abb9890" alt="">
+  
+  
+<div class="werty"
+     div id="header">
+       <h2 align="center">(Dark Souls)-Фламберг</h2>
+     </div>
+ <h2 align="left"> Игровое Описание:</h2><h3 >Этот большой меч с волнистым клинком — излюбленное оружие скользких людей-змеев из крепости Сена.
+
+Оно сдирает кожу и вызывает обильное кровотечение.</i></h3>
+  <h2>Местонахождение:</h2>
+  <ul><li>Выпадает со Змеев Магов в Крепости Сена.</li></ul>
+  <ul><li>Будет продавать <a
+href="https://codepen.io/Zabashta/pen/RwgMQdB">">Шива с Востока</a> за 10.000 душ после того, как уйдёт в Чумной Город.</li></ul>
+  <h2>Примечания</h2>
+ <ul><li>Вы должны состоять в ковенанте Лесные Охотники, чтобы Шива появился в Чумном Городе.</li></ul>
+  <ul><li>Порезы этим мечом вызывают у врагов Кровотечение с накапливающимся эффектом — 36 единиц за удар.</li></ul>
+  <ul><li>Имеет анимацию обычных атак прямого большого меча, а сильных — кривого.</li></ul>
+  <ul><li>При улучшении до +14 бонус от ловкости становится B.
+Улучшенный до +15 имеет 250 базового физического урона.</li></ul>
+  Характеристики:
+  
+  <ul style="background:#423110">Тип Оружия:Большой Меч</ul>
+  <ul style="background:#423110">
+    Тип атаки:
+Резкий удар
+  </ul>
+  <ul style=background:#423110>
+    Улучшение:
+Разный титанит
+    
+    
+  </ul>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/I8Dh_ogN9uA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+
+ 
+    
+</body>
+</html>
